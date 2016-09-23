@@ -1,6 +1,6 @@
 ﻿/*
  * Nathan Barton Section 002
- * This program has a menu structure consisting of a main menu and a sub menu
+ * This program has a menu structure consisting of a main menu and a sub menu. Each sub menu has a different functionality
  */
 
 using System;
@@ -71,6 +71,16 @@ namespace DataStructureGroup2_10
                                         bMainMenu = false;
                                     }
                                 }
+                                //for readibility - NB
+                                Console.WriteLine();
+                                Console.Write("Please select a number > ");
+                                sChoice = Console.ReadLine();
+                                Console.WriteLine();
+
+                                while (sChoice != "1" && sChoice != "2" && sChoice != "3" && sChoice != "4" && sChoice != "5" && sChoice != "6")//move to the step if user provides proper input
+                                {
+
+                                }
                                 break;
                             // for menu item 2 (Queue) - NB
                             case "2":
@@ -108,6 +118,7 @@ namespace DataStructureGroup2_10
                                     }
                                     break;
                                 }
+                            default: break;
 
 
                         }
