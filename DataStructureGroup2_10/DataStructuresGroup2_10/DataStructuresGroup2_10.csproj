@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C3089D8-4FF5-4700-B7B3-A8B7D6655AF9}</ProjectGuid>
+    <ProjectGuid>{AFEE7D5C-D560-4BED-AA0C-25B6E2709ED1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataStructureGroup2_10</RootNamespace>
-    <AssemblyName>DataStructureGroup2_10</AssemblyName>
+    <RootNamespace>DataStructuresGroup2_10</RootNamespace>
+    <AssemblyName>DataStructuresGroup2_10</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

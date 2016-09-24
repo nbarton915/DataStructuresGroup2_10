@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DataStructureGroup2_10")]
+[assembly: AssemblyTitle("DataStructuresGroup2_10")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DataStructureGroup2_10")]
+[assembly: AssemblyProduct("DataStructuresGroup2_10")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ade1698-c95c-423a-887f-152da8fe1c97")]
+[assembly: Guid("47724d19-58e1-4c25-a408-fe5a687872dc")]
 
 // Version information for an assembly consists of the following four values:
 //
