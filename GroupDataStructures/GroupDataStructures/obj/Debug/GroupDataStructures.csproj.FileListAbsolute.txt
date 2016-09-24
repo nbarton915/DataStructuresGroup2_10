@@ -1,6 +1,0 @@
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\bin\Debug\GroupDataStructures.exe.config
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\bin\Debug\GroupDataStructures.exe
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\bin\Debug\GroupDataStructures.pdb
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\obj\Debug\GroupDataStructures.csprojResolveAssemblyReference.cache
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\obj\Debug\GroupDataStructures.exe
-C:\Users\Shane Whitlock\Desktop\ISF16\VSPrograms\GroupDataStructures\GroupDataStructures\obj\Debug\GroupDataStructures.pdb
